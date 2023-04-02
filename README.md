@@ -1,2 +1,2 @@
 # Web prueba
-Página web de prueba Hospital de la ciudad de Charata provincia del Chaco
+Página web de prueba probando HTML y CSS
